@@ -1,0 +1,658 @@
+U,R',R,D',D',D,D',L,D',D,U',R',F,L,D,L',R,F,L' - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,R',U',U,L,B',R,U,D,B,D',D,B,B,D',R,B',B',U',L - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,R,F',B',R',F',R,B',B',D,R',F,D,R',R,F',L,D,R,L' - 43
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,B',L,L,B,L',D',B,B',L,F,F,D',B,R',U',F,R',B - 72
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F,D,D,D',L',B,F',L',R',F',B',B,F',R,B,D',R',U',L' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',F,U,U',U,B',U',R',D,R',L',R',R',L,U,L',U,U',U,D - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',U',F',R',D',D,L',R',D',U',R,F',D,B',R,F',U',B',U',B - 79
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',L',B,F',L,U,B',U',R,B',L,B,F,F,R',B',D',D,D',U - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',R,U',D',L',L,F,D,B,R,B',U,B',B',L',L',D,R,F,U' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',R',F',U,F',D,R',B',U,U,B,D,F',U,R',U,U',R - 67
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F,F',F,R,R,F',B,B,D,U',F',B,D',R',U',R',L',B,D' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,B',U',F,U',F',R,F,L,F',U,B,L',L,F,U',B,U,B,L - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,R,F',B',L,U',F,F',D',D',U,U',B',R',L',D,B',R,L',B' - 59
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,D,U,U,B',L',U,L',L',U,U',U,F',B',F,D',R,B',L - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',U',U,D,R,L',B,U',U',L',D,B,F',L',B,F',F',U,D,U - 47
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,B',L',B,F',U',F',F,F,R',R,L,L,D',B,U',D',F,D,F' - 79
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F,U',F,F,B',U,B',R',D,F,F,B',R',D,U',F',B,B',R - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',F',F',F,U,R,B',F,L,F',B',F',D',U,L,B,B',L,R',F - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F',R,D,L',B',F',F,D,D,B,R',L',B',L,D,B',B',U',U - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,F',D',U',F,L,U',L',D',L,U,L,L',U',B',D',L',R,U' - 22
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',U,D,L',D,B',D,L',L,F,D',F,B',B',F,U',B,L - 61
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,U,L',L',U,D,U',U,U,B',L,R,F',B,B,F',R,R',L - 50
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',D,R',B',D',F',B,U,L,U,U,B,D,B',D',F,F,U',F,R - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',D,L,U,L',F,D,B',F,F,R',F,B,B',U,D',F',L,R',D' - 71
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',B,R',B,R,U,D,L',U',D,L,B,L',B,F',U',L,R,R,R - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,F',L',F,D,B',D',D',U',B',R',U,U,L',R',B',L,R,U',D - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',U,L',F',F,L,R',B,B',R',D',D,U',R',F,U,D,U,D',B - 10
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,F,B',L,F',L,L,R',D',D',B,U,B',B,B,F,D,D' - 35
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,B,B,B,L,B',B',L,B',U,D',L',D,F',R',R,U,U',L - 56
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,D,B',F,R,R,U',L,B',B,R,L',F,U - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,R',B',F,R,F',U',U',D,B,U',F,D',R,B,F',U',B - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,R',U,U,D,U,D,D,R,F',U',F,R,F,U,B',D',U,R - 40
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,B',L,F',U',B',R',B',D',D',R',L',F,L',F,D',R - 88
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',U,F,B,U,U,D',F,D',F,L,D,F,U,F',F,R',R',B',U - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',L,F',R',F,D,L,D,B',U,B,B,B',F',U',U',U,F',L,D - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,L',U,U',L',F',R,U',D',B',R,R,L,D',D',B,D',B,B',D - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',L',D',L,U,R,U',L',R,U,F,B,L',D',U',R',L,F,B',L' - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,B',U,F,L,D',U',D,L,R',L,L,U,R',F,B,F',U,L,B' - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,B,L',D,L,F,R',L',F,L,U',U',R',F',R',B',B,D,U',F' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,F,F',L,D',D,L',L',F',R',R,U,F,B,F',U,L,U',U',F' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',B,L',D',D',U',L',L',U,R',B,D,R',R,L',D',B',L,U',U' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B,U,D',D',B',U,F,B',B',F,B,F,D,U',D,L',F',R - 38
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',U',D,F,B',R,R,L',B,B,B',F,U,R',U',D',F,D',L - 54
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,F',U',U,D,U',B',D,L',L,B,D',D',L',U',F',D',U,L',D - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,D,U',D',D,R,D',R',B,D,B,L,D',U,U',R',U',B' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',R',F,U',B',R',F,F',D',L,F',B,R',U,B,U,R',F,B - 56
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,R,R',F,B',B',B,R',R,R',D,B',F',U',F,L,U',F',L',D' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',R,L',B',R,L',R',L,R,U',L,B',L',L',F',F,D',R',R',B' - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,U,F,F,D,F',F,R,F,D,L,L',B',R,B',L,U',R,L',D - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',L,U,R,B',D,B',R,B,R',R',U,F,D',L,L',L',U,B',D - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',D',U,R,B',R',R',D',F,B,L',L,F,L',B,U,B',F',F',F - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',B',R',B,B,D,L',D,D',U',F,R',L,U,R',B',R',L',B',F' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,B,R,R,B',L',D',B,L,B',B,L',L',U,L,F',F,F',L,F - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',L',B,B,L',U,U,D',U',B,U',U,B',B',L',B,B',L',L',F - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',B',B',U',U',U,R,U',R,D,R',F,R',L,B,D,D,F',D,U - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F',B',U',B,U,D,U',D',D,B,R',R,R',R,U',L',B',R',F - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',B',B,L,D,U,D',F',F,L',U',L',F',D',L',D',F,L,R',R - 45
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',F',R',L',F,B,U',D',B,U,U,F,R,R',F',F,R,U',D',U - 47
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,F',B,D,U',F',L',B,U',B,U,F,R',L,B',D',R',F',U,D - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B',U',U,R,L,D,U',B',D,F',R,R,D,D,F',U,R',B,L - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',D',D,U,R,U,U,F',L',B,L',U,F,U,U,D,B',F,L',B - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B',R,F',F,R',F,R,R,D',D',L',D',F,B',R',R',R,F',B - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',L,L,U',F,L',R,R',R,L,L,F,D',B,R,B',F',U',D,D - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',B,U,R,R,F,D',R,L,F',D',U,D,L,R,F',D',F',D',D' - 79
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,R,F',U,L',U,R',B,D,R',D',F,L,B,D',R,D',F',D,B' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,D,L',B',L,L',D',L',F,D,L,D,D,B',R',B',D,B,D,U' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,L,U,U',U',F',U',B',R',D,D,U,D',R',L,L',D',L,R,L' - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,D',F,B,F,B',D,F,L',D,L,L,U,B',F',B',L - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',U,L',F',F,F',R,L,F,B',L',B,U',R,B,D',F,U',D,D' - 79
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',L',B,U,L,D',D,B,R,D',L,U,D,L,F,F,L,B',R,R' - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',B,R',U,B',R,R',U',U',R,F,F',B,B',U,F',L,F',D',B - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',R,L',D,F,R',D,L',D,U',R,R',F,R',B,R',U,B',D - 16
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',F,D',L,R,B',L',U',F',B',R',F,B',F',U',U,U,F,L,F - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,L',D,R',U,U,U,B,L',D,D,F',U,B',L',F,R',U',U',L' - 43
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B - 8
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,U,U',B,F',R,D,B',R,R,R,U',R',B,F',F',F,U',R' - 60
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,L',F',R',U',L,R,D,B,U,B',L',U',R',L,D',R',L',R,R - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',U',B',F',L,B,U,F',F',B,R',F',D',F',F',F,R,D',D',F' - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,U,F,D',L',B',L,R,U,U,U',F',R',L,B',U,R,D,R,L - 69
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',D',B',B,F,L,D',U,D',L,R',R,L,B',R,D,D,U,U',R - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F,U',D,U,U,U',R,U,L',D,B',R',D,B',F',R,D,R,F' - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',B',F,D',R',B',R,F',R,F',R,F',L,R,D',D',B',U',F,B' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',U',L,F,B,D',D',R',U',L,F',L,F,L,F',F',F,B,F,B' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',B,U',D',D',F,R,L,D,R',U,L',D,D,D',R,L',D',L',B - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F',B,D,R',L',L',U',F,F,U',D,L',U,U',L,L,R,R',L - 6
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,D,B',F',F,D',U,U',D',B',B,L',B',L,F',R',B',U,L',L - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,U,F',R,R,D',U,B,L',R',R',L',B',D',D',L,D,U' - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B,F,R,L',L,L,D',U',U',R',L',L',F,U,F',R',U,F - 66
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',F',U',L,D',F',D',U',L,D',U,U',F',U,D',R',B',L,D,L' - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,U,B',F',L',B',F,U,L',F,D',D',B,F',B,U',U',D',D,D - 97
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,D,U,D',U,R,U,B',B',U',R',U,D',U,F,R',R',D,B',R - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',L,L',L',F,L',F,F',L',B,F',R',F,L,B',F,L,B,L',B - 61
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,R,U,L,L',B',B,U',F,D,L',D',D',U',B',B,B,L,F,B - 47
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',U',L',F,D',D',U,F',B,U',L,B,D,U',B',F',F,D,B',U' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F,F,R,L',U,D,F,D',L,D,F,R,D,B,D',B,D',D,F' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L',D,R,R',R,D',R',D,B',U,D,R',B,R',F,D',L,R',L' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,U,D',F,R',R,B',B',F,L',R,B',D',B,U',B,D',B',L',D' - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,D',B',F,R',R,L',F',D',L,L',B,D',R',U',U',U',U',L',R' - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,B',R',U,F,B,L,D,F,B,F',R',F,D',F,R',U',U,B,F - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,R,U,L,U',D',L',R,D,R',R',F',B,U',B,L',F,D',R,B - 25
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,D',R,B,F,D,U,R',D',L',F',U,B,L,F,F,D',R',F - 76
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',U',U',R',B',F',U,B,R',U',B,L',D,B,U,F,L,R',R,D - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',R',F',U',U',B',B',U,L,L',L,R',D,B',L,U,B,R,B',L - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,L,L',B',L',L,U,U',B,L,L,L',D',B',B',F,U,F',U,D' - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',L,R',U',F',B',D,D',L',R,U,F,B',D',U',D,R,D,F',D - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',U',U,B,F,F,D,F',U,R,B,R,F',F',U,B,U',R,D',L' - 29
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',F',F',R',R,D,U,B,L,B,U,R,D,D,L',R,R,U,U',D' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',R,B,F',F',R',D',F',U',R',L',F',R',U',B',U,B,R,B',R - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',L,D,L',U,L,D',L',B',B',U',L,R,U',F,R,D,F,R',F - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',D,U',B,D,D,R',F',U,R,F',F',B,U,D,U,F',L,U,U' - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',D,B',D,F',U',F,U,B,F,U,F,L,F',L,B',D',F,L',F' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',L',R,D',R,B,D,U,U,D',B,D',F,D,L',L',B',D,D,B - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',U',R,F,B',D',F,F',D',U',D,R,F',R,U',L,F',U,R,D' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',B,B,U',R',L',F',F',R',D,R',R,F',B,L,D,F',R',B',D - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F,U,U',R,R',D',B',F',L,R',U',L',L',D',R',D',D,B,D - 93
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',D',B,R,D,L',R',F',U,D,L',D',F',D',L',U',L',L,F,R - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',L,D,D,L,F',R',R,R,F',U',R,F,U,F',F,U',F',B,B - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,D,B,U',U',U',F',D',R,U,R',F,B,B,D,D,R,R,D',L' - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',R,R,R,F',D',B,D',F,D,L,U',U,R',L',R,F,R,F,L - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,F',D,D',F',B',U,U',D',L,B',F,D,U,R',D,D,U',D',L' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,D',F',F,R',L',L',D',B,L',U,U,L',F',D,D',D',U',B,D' - 73
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',F',L',D,R,L',U,B,L,R',D',L',U,F,D',U',D,D',L,F - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,R,R',L,D,B',U,L',D,R',F',D,L,D',F',B,L',U',L - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',B,D,R,L,U,U,F',B,B',B,L,L,B,B',L',U,R,D - 60
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L,U,R',L,R,U',L,U,U',U',B,B',D,D,D',R',U',R',F' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',B',R,B,L,D',F,U',B,F',B',D',U,D,D',B,R,R,B,D - 71
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',L',D,R,D',F,R',R,B,L,D,B',F,B',B',R',D',R,B',U - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,R',B,U',L',U,L',U',U,L,F,D',U',R',R,D,D',U,U,U - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F',F',R,D,D,D,F',D',R,U',F,R,U',R',B',D,B',U,D' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',B',B',R,U',D',B,F',F,B,B,D,F',U',U',L,L',L,F,B' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,U,R,F',R,R',B',B,L,D,D,D,L,B',L',U',L,F,R,F - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,B,L',B',B',U,U,L',U,R',R,B',F',U,R',F,R,R',F',B' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,U,B',F',B',D,R,F',F',R',D,L,B',D',F',F,D,F',R',U' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,R',F',R,U,F',U,F',U',L',R,B,R',L,F,F,B',U',B',D - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',U',B,B',F',D',R',L,U',U,U,B,B',R',B',B',U',R',R,D - 13
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',U,R',R',F',F',R,L',F',F',L',R',D',R',U,L',L',F',D',L' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,B',R',U,L',R,F',U',F,R',R',U',U',B',F',R,R,F,L',L' - 59
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',F,U,D,R,F,L,R',R',F,D',F,R,D',D,D,F',B,L,F' - 123
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,L',U',L',D,L',B',B',R,U,L',F',U,B',R,B,L,D,L',U' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',U,U,L',F,R,B,D,U',B,L',F',B,F,U',U,U',R,D',R - 97
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',U',U,B',R',D',F,B',L',R,B',B,U',B,F,F',F,U,D',F - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',F,D',F',F',L,B,F',U',R',F',D,R,R,U',L,R,F,F,B - 105
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',U',D',U',D,D,B,U,L,U,R,L,U,L,F,F',F,U',R,F - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,U',B',B,F',F,L',L,U',U',D,D',U,D,L,R',B',D',U' - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,F,R',U,L',R',B',L,U,B,U',F',F,L',R,L,B,B,U,L' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',L,B,L,F',U,D,B,D',L,B,L',B',R,R',U',F',U',D',R - 25
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,D',D,B',U,F,R,R,L,F,L,F,B',D',F,L,D',D,B',U' - 67
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,F',F',F,F,U',D',F,F',D',F',D',B,F,D',L,B,L',U',D' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,L,U',B',B',B,D,U,R,L',D',L',L,F',B,B,U,D',B',L - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B,B',U',R,U',D',D,L',B,R',L',D',B',L,R',B',U',L,B' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',U,L,B',R,R,L',B,R',F,L,R,B',D,D',R,B,L,B,U - 83
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,D,B',D,D,R,D',L',F,F,L,L,L',D',F',D,U',D',B,B' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,F,L',D,U',L',D,B',D',D',B',F,F',L',L,F,B,R',L',B - 71
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',D',B',F',F',B',B,F',B,D,B,F,B',F,U,U',R,D',U,L - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F,R',B',R',D,R',U',B',R',D,L,U,U,U,F',L,L',U',D - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',B',F,B',F',R',R',B,D',B',L,L',U,R',F',D,L,L,R,F' - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',L',U,D',F,B,F,D,U,L,R,B,R',F,F,B,D,F',R' - 38
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',D,D,D,L,F',F,L,B,B',U,D,L,U',L,B',R,L,R,B' - 69
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,R',L,L,D,U',B,L,L,F,R,R',B,F',L,F',U',U,B',L - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',U',F',B,D',U,U,R,R',R,D',U,L,F',F,B',L,L',R',L - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',R',U,L,L,D',L',R,L',D,F',F,D,L',U',R,L,D,D,U' - 71
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L,D',U,U',R,L,U',L',B',D,L',B,D',F,F,F',R',F',F - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',B,D,U',F,L',U,F',D,U',F,D',D,L',D',D,D',B',D,B' - 61
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,F',U,B,U',U',D,D',B',B',B',D,U,R',L',D,L,U,R',F - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,F',D,R',F,D,R',B,R',U,U,L,F,D',B,R,R',U,R,U - 97
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,R,U,B,B,B,F,L',F',B',L',R',F',B',R,B,U',D,L',F - 71
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,F,D',U',R,F',D',R,B,F',U,R,F,L,L,L,D',U',F,R' - 87
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,U',F',B',L,U',U',R',F',F',D,F',D',B',B',R,R',D',D,L' - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',B',D,F',U,U',L',D',B,B,L,L',R',B,U,R',R',D',U,D' - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,F,F',D',B,B',L',D',R',F',D',B',R',U',B,L',U',F',F',U' - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',U,L',R,D',L',D,L,R,B,D',F',R,B,D,R,L',R',D',U - 45
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,L,F',D,F',R',D,U',D,U,D,F,U,F,L',U',D',L',R' - 64
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,R',D',D',U',L,L,B',R',F,F,F',F,L',U,L',B',L',D,R - 97
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,B',F',F',L',B',L',R',R',B',F',L,F,R',F',F,U,U',D,D - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,L',R',U,U',B',F,R',L',U,L,B,L,U',D,D,U,B,L,F - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',B,L,F,D',L,L',B,U',R',B',L,F,L',F,D',U',R,R',R' - 25
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',L',U,U',U',R,F',D,B',F',U,L',U',D',D',B',D',B',U,R - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,L,R',B',D,B',L,F',R,D,B',B',B',R',L,D,L,D',R',B - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',R,B',L,R,L,U',F',U,L',U',U',L',L',R',F,L',R,R',U' - 87
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',L',D,B,B,B,F,F,B,F',D,D',U',B',B',F',D,R,R',F' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B',L',L,B',D',R',U',R',F,F,B,F',D,F',U',L',B',L,R - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',B',L',F,F',L,R,R',D,L,B',L',D,B,R',R',R',L,F',F' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,L',L',U',B',L,B,R,U',F,F,R,F',U',F',D,U,U',B',R' - 59
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,B',R,F,D',F,U,R,L',U',D,B',R',L',D',L',D,U,D,L' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L',U,B',R,L',U',B',F,D',L',R',R',D,L',F',L',F',U,F - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,D,L',B,B,R',F,B,B,F',U,L,R,F,F',U',F,L,L',B' - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',D,U,U',L,F',R',B,L,L,B,B',R,B,R,L,B',F,F,F' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',F,U',B,B,L',U,R',F,D,B',L,L,U',F',B',D',F',B,U - 25
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,L,L',B,R',U',B,F,R',R,B',R,R,U',F,B,U',F',F',F - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',D,L',B,D,F,F,U,F',L,R,D,R,U,B',B,L,D',F',L - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',U,B',F',B',L,D',D,R,L,R',R',U',L',F,L,B,R,R,R - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',D,L,D',F,R',B',F,F,B',D,D',B,U',F',L,U',L,L',F' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',B',F',B',U',L',L,U',U',R',F',R,D,U',F',F,R,F,B',B - 10
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,B,D',L,L',L',U',L',U',B',F,L,L,U',U',L',D,R,B,D - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,U',B',B',R',F,L',R',U',F',L',B',D',U,L,F,D',D',D',L' - 91
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',F',R,U',L',B,L,L',L,D',U,U',F',F,U',F',B,F,U,L' - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',R,D',U',D',B',F',F,D,B,L,U',B,L',U',L,F',U',L,F - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',R,D,D',L',D,D',L,D,R,R,L',F,F,R,F',F',R,B',B' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B,F',L,B',F',L',F',F,F,R',U,U',B',U',D',L,B',B',F' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,D',L,B',F',U,B',B,F,U',D,B',R,L,F',F',R',D,R,F - 91
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',L,U,U,L,F',R',D',L,B,F',F,L,D,D',R',U,L,R',U - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,F',F,D',B',D,B',L,B',U,R,D,F,B',L,R,F',F',L - 76
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',D',L',B',B,D,U',L',F',U',R',L,D,D,L',D',R,L,B,F' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,B',F,U,B',D,R,U,B,D',U,L',R,F,D',L,B',B',L',D' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',L',D',R',L',F,F',B',B,D',U,U,D',U',B',L,D',R',F',R - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,L',U',F',L,R,F,F',R',L,U',U',L,D',D,D,D,R',U',L - 71
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,U,L',B',D',L,U',D',B',D,R',L,F,R,D,B,D,B',D',F' - 67
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',U',D,D,F',F',L,F,B,L,F',L',L',B,L,F,L,B,B,D' - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',F',B,B,D',U,L,R,U,U',D',F,R,R',F,U',U',B,R,B' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F,F',D',B',B',F',U,L,U,B',B',B',D,B,L,L,U - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',R',F',D,F',R,R,R',B',D,B,R,F',L',F',L',F,U,L',F - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,F,L,D',F',D,L',U',B',L',D',F',L,B',U',L,U',U',B,U - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',D',B,R,D,B,R,B',U,B',D,U,D,U',L,D',R,R',F,L - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',B,L',R',R',U,F,U,D,U,D,R',U',R',U,B',D,U',D,D' - 79
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',B,F',R',D',D',R',R',R',R,R,B',L,D',U',F',B',B',D',R - 47
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,D,B,U',D',F,R,L',B',B',B',F,F',B,U,L',B',R,F' - 70
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,B',F',D,U,L,R,D,B,L',B,R,U,R,F',U,F',L',L,B' - 69
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,U',D',F',B',U,F,L,R',R',F,F,D',L',R',U,D,B,F,F' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',L',B,L',L,F',R,F,F,U',R,R,L',D',L',R,U',R',B',U' - 75
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',R,U',F,U',B,L',R',D',B',F',B',D',L',U,F,F,U',B,B' - 95
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,F,L,R,D',L',L',D,L,B,B,U',F,D',L,L,B,F,L' - 60
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,U,L,F',B',L',F,R,U,R,D,R,U,U,B',R',R,F,F',D - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,U,L,U',D',D,F,L,D',F',B,R',F',R,D,B,B',D,B',R - 69
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F',D,D',U',L',U',U,F,F,R,U',D',U,B,U' - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',D,R,F,F',F',D',U,R,L',B,L,B',D,U,U,U',R,U,B' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,F,L,B',B',B,L,L,F,U',U',L',F,L,D',F',R,L,B',R - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,R,B',F',F,L',B',D',L',L',B,F',U',B',R,D',R',U,F,D' - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F',U',R',B,B',U,F',L,L',B',B,D,D',B',U',R,B',B',D' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',R,U,F,U,R,R',L,L',D,U,F',R,U,R,L,U',B',F,F' - 47
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',L',F,L,B,B',R',D',F',R,U',R,L',D,U',L',B,F',D',D - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',L',F',B',D',D,L',D,B',L',R',R,U,D',D,U',F,F,D,D' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',U,R',R',U',D',U',U',D,U,B',D,R,U,L',U,R,D',L,U' - 81
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',L,B,R,B',L',U',R,U,R',U',R',F',U,R',U,D',D' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,L,B',D,L,R',U,U',B,F',U',L',U',L',R,L',U',D,R,R' - 73
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',R,B',D',F',F',B',U',L',B,U,F',L,B,F,U',B',U,U,L - 107
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',F',D',R,R,R,U,B',U',U,B,L',R',U',U,L',L',U' - 61
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,R,D',F,B,L',L',U',D,B',F',L',R,L',B,D,F,U',B,F - 73
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,U',D',L',U,L',L',B',B',U',U,L,L',R',B,U,U',D,F',U' - 69
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,B',L,F,R,B,R',B,U',R',L,F,L,R,D',L,R,F,D',F - 103
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,F,U,D,B',L,L,F',F',F',D',F,F,R',R',B',B,B',D' - 26
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,D,F',D',D',F',D,F',L,U',R',D,F,F,B,F',B' - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L,F',B',B',L,F,L',B',F',D,B',F',D,U,R',D,D,L',D - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B,L,L',R',U',U',D,F',B,F',R',R',D,D,L',L',F',U',D - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,B',F,U,U',U',D',U',F',F',U,B,U',R,U,D,U,F,D,B - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',B',F',F,U',U,B',U',L',L',U',D,D',D',D',L,R',B',L,D - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',B,F,R,U,U,U,F',R,R,L,B,L',B,R',L',R',L,B',L' - 99
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B,B',F,L,R,U',B',R,F,B',F',F',B',U',R',R',F' - 73
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',B',R,U',U,F,U,L,L',D,R,U',D',R',D',F,R',L',D,F - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',B',B',R',F,L',B',F,F,R',R,F,F',L,D',B',B',U',U - 80
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,F,L',B',R,R,D,B,B,D,F,D',U',U,F,B,R,F - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,F',L,F',U',D,B',L,U',R,F',B,B,F',L',R,L,D,D,R - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',D',D,B',B,L,L',U,U,B',L,F',B',F,L',L,D,U',D - 8
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,D,F,F',F,B,R,R,F',R',R,R,B,L',R',L,B',F,D',D' - 10
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F,B,L',U,R',R,R,F',D,F,U,D,R,U,F',B,R',L,F - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,U',U',R,R',R,F',B',F',F,U,U,L,U',L,B',D - 42
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,F',U,L,F,R',F',F',B',F',U',B,L,D',U,F,B',L',R' - 90
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,F',F,U',L',R',U,B,D',U',D,D,L',R,B',B',L,B',R,L' - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,D,U,D',B',L,B,L,D',L,B,F,L',B',D',R,D',L,U,B' - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',D,F',L,B',D',U',B',D,B,D,U',R',B',R,D',R,R,D',B' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,U',R',F,B',L',D,D',R,B',B,B,L',U',R',D',D',D,R',L - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,B,F',F,U',R',L,D',L,R',D,D',F,L',R',U',R',D',D' - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',D,R',U',U,F',L',U,U,L',F',R,R',B',L',D,F,B,D',F' - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',U,R,R',R',B,B,B,U,U,F',L',R,R',B,F,F,R,L,L - 75
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,R',L,D,L',F',L',D,F,B',U',R,R',U,R,D,U,D',B,L' - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L,R,R,B,U',U,R',D,L',F,B',U,L,U',B',U',F',L',R - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,L',D,F',F,R,L',D,F',R,R',D',R,L',L',F,F',B - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',F,L,L,B,F,L,B',D',F,U,F',B,R',F,D',B,B',U,F' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L',D,L,L',U',F',U',F,D,B',B',B,F,U,R,D' - 60
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',B',F',F',B',D',U,R,L,D',U',R,R,R',B,L',D,F,F',B - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,L',B',B',F',L',B',L,R,R',D,F',U',L',F,U',R,D',R',D' - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,B,L',L,U',D,F',U',B',F,U,F',F',U',U',B,D',U',L',D - 95
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,U',F',L',B',L',B,R',U',R',U,F',L,B',D,F',F,R,F',F - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',B,U',D,U,B',L',L',U',F',D',U,D,D',B,F,L,L - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',U',R',B,D,L,R',B,F',B',L',R,U',F,B,D,L,L,B,L' - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',D',D,L,F',B',L,F',R,F',R,R,F,B',R',U,L',F',L,D - 73
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,F,U,L',R,B,B',F,B',D,L,R',R',B',U,F',B,F,U,B - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',L,F',D,B,U,F,R',U',R,D',R',U',D,R',R',R',R,D',B - 39
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,L',L',U,R',L,F,D',L',D',L',D,L,F',F,D,L,U,D,R - 61
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F,U',F,U,U,L',B',F',U',D,B',R',B,D,F,F,U,R,R - 59
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',U',D,D,R,D,U,F,R,F,L,B,L',B',U',F',B',U,B,F - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',D',D',D,B,U,U,F',D,F',D,D',B,U,L,U,F,D' - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',D',D,U,B',R,F',U,D',R',B',F,U,L,U,F',R',D',R,B - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,U',B',B,U',L',F,D,D,U',L',R,U,D',L',B,L,R',D',R' - 37
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,U,F',B,F',B,D',L,U,R',D',R',U,L',F,B,F',R,F,U - 47
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',B',R',D,F,L',L,U',L,D',D,L',D,D,B,L,R,L,L,L - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,D',B',R',B',L',L,D,D,L',U',B',U,R,L',B',L,F,U,B - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,U',D,D,U,R,L',F',R',R,D',L',D,L',D',B,D,R',D',D' - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,U',B,L',R,L,R,L,U',B',U',L',U',L,U,D',L',F,B',B - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',F',U,F,D',U,F',L,U,L',L,L',D,D,L',B,U',U - 59
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',B',L',F',D,B,L,F',D,L',F,B',B',U',U,L',D,L',B',R - 59
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,D,L,D',B',D',U',F',D',L',R',R,R,B,L,U',R',L,F - 8
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',U',B,D',B,B,U,U',R',U',R',U',B,F,D',D',F,D' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',U',L',U,R',R,D',R',D',U,R',R,U',B,R',B',D,U',U',F' - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,L',R,D,L,L',B',D,R',B,F,B',D',R,U',F,L',F',F',F - 103
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',B',L',L,U',B',L,F,D,U,R,D',L',U,L,R,U,L,B,U - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',L,U',U',L,F,R,D,F,D,R,R',R',L,D',B,F,B',B,R - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',F',U',L,U,B,R,B',R,U,U,B',F',R,B,R',L',R,F,R' - 85
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',F,B',B',D',D,L',L',F',U',F',L,B,L',U',F',F,R,L,D - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',L,L,F',R',U',F,B,L,U',F',R,D,R,L',U',D',L',U',D' - 43
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',B',L',L',R,R,B,B,D,L',F,R,D,L,D',B',F,B,B',D - 71
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L,L,B,B',B',B,F',F,U,L',U',L',R',B,L',L,U',B,D' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,B,U',F,U,R',R,L,R',D,D,L,D',L',F,B',R',U - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,D',R,B',D,L,D',R,L,L',R',R,U',R',U',B',L',L',B',R' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B',D,F,R,L,B',D,R',U',U,B,B',U',R',R',U',L,D,D,U' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,U,R',R,R',R',F,L,U',R',U',U,D',L',U',D',D,R',F,D - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L,B',L,F',R',R',B',R,D',R',F',U,L',B,B,F',D',L',D' - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,R',R,L,L,R,U',U',D',B,B,R,U,L',D,L',B',U,B',U' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',U',B,U,B,F,L,B,R',L',R,B,R',F',U,U',L',D,U - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L,U,R,U,L',B',F,R,R,B,B',L,F,D,B',U,U,F',D,F' - 61
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,F',B',L,F,U,R',B',R',L,B',L,R,B,L',D',R,B,B,L - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L,U,F,B',D,L',D,F',L,F,R',D',D',U',L',F,F' - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',D',F,F',U',U,F,F',L,D',F',F',D,R,F',D',L,L',D',U - 75
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,D,R',U',L,F',R',F',R',B,B,L',U,F,B',D',R,U',D,D - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,B,L,B',L,B,F,L',B,L,R',F,F,U',D,D,R',L' - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,B,D,L,L',U,D',R,U',B,L',R',U',B',D,B,B',F',U,D' - 55
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,L',U,L',D',D,F',D',R,B,R',D,U,U,D,D',R',R,D,U' - 61
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',L',U',R,R,D',D',L',D,F',F,D,R,F,R,U',R',B - 67
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,L,D',L,B',R',L',R',L',B,U,L',L,B,B,U',U,D',L',U - 57
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,B,B',F,U,L',B,F',R,L',D',B,F,B,U,L,B,R,U' - 42
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,B',R',B',L,L,D',F',U,U',U',L,R,B,B',D',L - 66
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R,D,R',F,B,L,R',B,L,R',F',D,L',U,U,R,B,F',D',D' - 65
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',F',D',R,B',R,F',L,F',U,D,D',B',L',R',U,U,D',D',U - 89
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',F',F,U,B,B',B',U',U',D,F,F,L,D',D,L',R,L,B',F - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D,U,B',F',D,D',U',U,L,U',R',R,B',U,R,D',U',B,D,B - 51
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',R',R',L,L,L',U',D',L',B,D',L,U,D,U',L,F',F',B,R - 43
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',F,F,F',B',D,L',U,B,L',D,L,R',D,F',F,D',B,B,U' - 91
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,F',R',R',U',U,D,U,U',L',D,R,B,F',B,B,B,F',R',U' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+R',F',L',U',U',D,L',L',R',R',B',L',B,F,L,F',R,F,R' - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',B',U',F',F',D,R',F',U,U',U',D,U',D,B,F,R,U',B - 74
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}

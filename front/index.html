@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Longitudinal</title>
+  <link rel="icon" href="images/logo.png" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+  <style>
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body style="background: linear-gradient(25deg, rgba(79,82,186,1) 0%,rgba(22,26,45,1) 100%); animation: fadeIn 2s;">
+  <div class="sidebar">
+    <div class="sidebar-header">
+      <img src="images/logo.png" alt="logo" />
+      <h2>Algabo</h2>
+    </div>
+    <ul class="sidebar-links">
+      <h4>
+        <span style="display: flex;">Movimientos&nbsp;<span id="solve-moves"></span></span>
+        <div class="menu-separator"></div>
+      </h4>
+      <div class="movement-list" id="moves-text"></div>
+    </ul>
+    <div class="user-account">
+        <ul class="sidebar-links">
+            <h4>
+                <span>Cubo rubik</span>
+                <div class="menu-separator"></div>
+              </h4>
+              <li>
+                <a id="shuffle"><span class="material-symbols-outlined"> shuffle </span>Desarmar</a>
+              </li>
+              <li>
+                <a id="solve" href="#"><span class="material-symbols-outlined"> filter_list </span>Resolver</a>
+              </li>
+              <li>
+                <a id="infinite" href="#"><span class="material-symbols-outlined"> all_inclusive </span>Resolver ∞</a>
+              </li>
+        </ul>
+    </div>
+  </div>
+  <canvas id="scene"></canvas>
+  <script type="module" src="/src/scene.ts"></script>
+</body>
+</html>
