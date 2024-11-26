@@ -1,5 +1,15 @@
 # Proyecto Longitudinal ALGABO 2024
 
+### Integrantes:
+
+- León Salvo.
+- Matías Varela.
+- Florencia Roldós.
+
+### Docente:
+
+Mauricio Velasco.
+
 ## Ejecución del Proyecto
 
 ### Prerrequisitos
