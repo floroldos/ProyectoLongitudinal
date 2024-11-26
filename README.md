@@ -20,9 +20,9 @@ Asegúrate de tener instalados los siguientes programas:
     ```bash
     cd ProyectoLongitudinal
     ```
-3. Instala las dependencias del backend:
+3. Ejecuta:
     ```bash
-    pip install -r requirements.txt
+    pip install fastapi uvicorn
     ```
 
 ### Ejecución del backend
