@@ -656,3 +656,29 @@ R',F',L',U',U',D,L',L',R',R',B',L',B,F,L,F',R,F,R' - 52
 cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
 L',B',U',F',F',D,R',F',U,U',U',D,U',D,B,F,R,U',B - 74
 cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',D,L',D,B,F',D',F,B',L,U',D',U',D',U',L',F',R' - 10
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+D',D,L',D,B,F',D',F,B',L,U',D',U',D',U',L',F',R',U',F,B,L,D,L,B,L',R',B',B,F',F',D',L,L',F,F,L',B,D,U',L,R,R,D',U' - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+B,R',F,F,L,L',D,D,F',L',F,D',F',L,D,D,L',L',B - 38
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F',U,D,L,D',L,U,F',D',U,L',L',F',B',U',U,F',B,U',B' - 63
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,L,B,R',B',L',R',R',D,U,U,F',D,L',D',L',F',R,U',L - 75
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,L,B,R',B',L',R',R',D,U,U,F',D,L',D',L',F',R,U',L,B,D',R,U,D,L',D,L,R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D,R',B,R',F,F,R,B',R',F,F,R,R,D',F',L,B',U,B,F,L,B',B,R',L,L,R',U' - 77
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,L,B,R',B',L',R',R',D,U,U,F',D,L',D',L',F',R,U',L,B,D',R,U,D,L',D,L,R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D,R',B,R',F,F,R,B',R',F,F,R,R,D',F',L,B',U,B,F,L,B',B,R',L,L,R',U',U',L',U,F,D,F',R,F,R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',D,D',L',F,L',B,B,L,F',L',B,B,L,L,D',F',R,U',U,D',D',D,B',L,B',R',L',F,D',R',L,L,R,L,R' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+F,L,B,R',B',L',R',R',D,U,U,F',D,L',D',L',F',R,U',L,B,D',R,U,D,L',D,L,R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D,R',B,R',F,F,R,B',R',F,F,R,R,D',F',L,B',U,B,F,L,B',B,R',L,L,R',U',U',L',U,F,D,F',R,F,R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',D,D',L',F,L',B,B,L,F',L',B,B,L,L,D',F',R,U',U,D',D',D,B',L,B',R',L',F,D',R',L,L,R,L,R',U,B,U,R,D',F',D',F,R,U,R',U',R,U,R',U',D',R,U,R',U',R,U,R',U',D',D',R,U,R',U',R,U,R',U',D,D,L',F,L',B,B,L,F',L',B,B,L,L,D',R',D',L',B',L,L',L,F,U,F',F',U,L,R,U,B',R',D',D',F' - 83
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',D',F,L',L',L,U,R,R',L,B,F,U',B,R,L',F,L',R' - 52
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',B',U',U',B,R',U,U,L',L,U',B',F,F,D',B',F',R,L',R' - 53
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U',D,D',D',D,L',L,U,B,F',F,D,U',B,D,L',B',U,U,B - 49
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+L',B,B,R',F',F,B,L',L',B,L',L,D,R,F',R,R,U',R,U - 37
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}
+U,D',U',U,U',U,D,F',F',U,L',B',U,F',L',U,D,R',D',L - 69
+cube: {'U': ['W W', 'W W'], 'D': ['Y Y', 'Y Y'], 'F': ['G G', 'G G'], 'B': ['B B', 'B B'], 'L': ['O O', 'O O'], 'R': ['R R', 'R R']}

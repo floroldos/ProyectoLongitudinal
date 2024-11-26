@@ -25,11 +25,12 @@ Asegúrate de tener instalados los siguientes programas:
     pip install fastapi uvicorn
     ```
 
+
 ### Ejecución del backend
 
 Para ejecutar el backend del proyecto, usa el siguiente comando:
 ```bash
-python main.py
+python -m uvicorn main:app --reload
 ```
 
 ### Ejecución del frontend
